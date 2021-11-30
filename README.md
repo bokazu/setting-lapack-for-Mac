@@ -5,7 +5,9 @@ MacOSのPCでC++でLAPACKを使用するための手順を備忘録としてま�
 
 ## LAPACKのダウンロード
 まずは、以下のサイトからLAPACKの圧縮フォルダをダウンロードする。
+
 [LAPACK -Linear Algebra PACKage](http://www.netlib.org/lapack/)
+
 versionがいくつかあるが、新しい方が色々と改善が施されて性能面で古いversionのものより良い。ただし、ネットに上がってる記事や本で使用されているversionのものがダウンロードしたものより古い場合、関数の使用方法が若干異なる場合があるので注意が必要である。
 
 ここでは、圧縮フォルダを`/Users/UserName/Documents/`に保存した。保存したら、このフォルダを解凍する。
