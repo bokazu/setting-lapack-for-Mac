@@ -3,6 +3,11 @@
 ## 概要
 MacOSのPCでC++でLAPACKを使用するための手順を備忘録としてまとめた。
 
+## 参考にしたサイト
+[LAPACK/BLAS 設定メモ(Mac)](https://qiita.com/nek0log/items/5733b8b886b9ad93ae11)
+
+[VScodeのinclude Pathの設定をちゃんとする](https://qiita.com/sage-git/items/ffe463c0de05344d721b)
+
 ## LAPACKのダウンロード
 まずは、以下のサイトからLAPACKの圧縮フォルダをダウンロードする。
 
