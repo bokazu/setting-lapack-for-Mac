@@ -3,6 +3,16 @@
 ## 概要
 MacOSのPCでC++でLAPACKを使用するための手順を備忘録としてまとめた。
 
+## 動作環境
+- mac OS 11.6
+- LAPACK 3.10.0
+- gcc 11.2.0_2
+- gfortran 11.1.0
+- clang 13.0.0
+- make 3.81
+
+
+
 ## 参考にしたサイト
 [LAPACK/BLAS 設定メモ(Mac)](https://qiita.com/nek0log/items/5733b8b886b9ad93ae11)
 
